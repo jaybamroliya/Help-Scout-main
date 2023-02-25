@@ -111,7 +111,7 @@
           <mj-social-element src="https://i.ibb.co/fSY9354/footer-btn-rss-1.png" href="https://mjml.io/" target="_blank" alt="RSS"> </mj-social-element>
           <mj-social-element icon-size="120%" src="https://i.ibb.co/JFcggnL/footer-btn-email-friend-2.png" href="https://mjml.io/" target="_blank" alt="email to friends"> </mj-social-element>
         </mj-social>
-        <mj-text padding-bottom="25px" align="center" font-size="12px" line-height="25px" color="#72808e"> <a style="color:#72808e;text-decoration:none;" href="https://jaybamroliya.ml" target="_blank"> view in your web browser </a> | <a style="color:#72808e;text-decoration:none;" href="https://sidhant.ml" target="_blank"> unsubscribe </a>
+        <mj-text padding-bottom="25px" align="center" font-size="12px" line-height="25px" color="#72808e"> <a style="color:#72808e;text-decoration:none;" href="https://jaybamroliya.ml" target="_blank"> view in your web browser </a> | <a style="color:#72808e;text-decoration:none;" href="https://jaybamroliya.ml" target="_blank"> unsubscribe </a>
           <br>
           Made by Help Scout • 100 City Hall Plaza, 5th Floor • Boston MA • 02108 </mj-text>
       </mj-column>
